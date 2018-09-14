@@ -1,3 +1,10 @@
 # hello-world
-This is my first and one and only hello-world project :-)
-I would like to become familiar with GitHub, this is why I am following the instructions and creating this project.
+
+Hi, Humans!
+
+I like Node.js and Coffeescript - that's what I'm made of!
+I've had tacos on the moon and find them far superior to Earth tacos.
+So let's move!
+
+Best regards,
+Gitte
